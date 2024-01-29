@@ -1,0 +1,10 @@
+06:00:39 **** Incremental Build of configuration Debug for project led_cmsis ****
+make -j8 all 
+arm-none-eabi-size   led_cmsis.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3668	     20	   1572	   5260	   148c	led_cmsis.elf
+Finished building: default.size.stdout
+ 
+
+06:00:39 Build Finished. 0 errors, 0 warnings. (took 210ms)
+
